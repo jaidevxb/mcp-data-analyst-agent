@@ -70,17 +70,17 @@ The agent executes tools only when required:
 ---
 
 ## 🏗 Architecture
-User Query
-↓
-LLM Planner
-↓
-LangGraph State Machine
-↓
-Conditional Tool Execution
-↓
-Analysis + Charts
-↓
-LLM-Generated Insights
+User Query  
+↓  
+LLM Planner  
+↓  
+LangGraph State Machine  
+↓  
+Conditional Tool Execution  
+↓  
+Analysis + Charts  
+↓  
+LLM-Generated Insights  
 
 
 ---
@@ -112,9 +112,8 @@ LLM-Generated Insights
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
+```
 Add your API key in a .env file:
-
 GEMINI_API_KEY=your_api_key_here
 
 ---
