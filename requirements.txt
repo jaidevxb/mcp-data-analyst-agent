@@ -1,0 +1,9 @@
+langchain
+langgraph
+langchain-google-genai
+pandas
+numpy
+matplotlib
+plotly
+streamlit
+python-dotenv

@@ -1,0 +1,74 @@
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# --------------------
+# Virtual Environments
+# --------------------
+venv/
+.env/
+.env.*
+*.env
+
+# --------------------
+# Streamlit
+# --------------------
+.streamlit/
+.streamlit/secrets.toml
+
+# --------------------
+# OS / Editor files
+# --------------------
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --------------------
+# Logs
+# --------------------
+*.log
+
+# --------------------
+# Jupyter / Data
+# --------------------
+.ipynb_checkpoints/
+
+# --------------------
+# Generated files
+# --------------------
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.csv
+*.xlsx
+
+# --------------------
+# Temporary files
+# --------------------
+tmp/
+temp/
+*.tmp
+
+# --------------------
+# Build / Cache
+# --------------------
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# --------------------
+# LangChain / LangGraph
+# --------------------
+.langchain/
+.langgraph/
+
+# --------------------
+# Secrets
+# --------------------
+secrets.toml
