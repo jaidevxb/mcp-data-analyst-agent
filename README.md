@@ -104,6 +104,8 @@ LLM-Generated Insights
 - Implements **true agentic behavior**
 - Demonstrates **planning, reasoning, and tool orchestration**
 - Built on real data, not toy examples
+- Implements decision-making at runtime instead of static pipelines
+
 
 ---
 
